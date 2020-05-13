@@ -1,6 +1,6 @@
 # Port Sniffer With Rust
 
-A multi-threading rust program for sniffing an IP address port
+A multi-threading rust program for sniffing an IP address ports
 
 ## usage
 
