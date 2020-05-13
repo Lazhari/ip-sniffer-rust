@@ -1,4 +1,4 @@
-use std::net::{IpAddr, TcpStream};
+use std::net::IpAddr;
 use std::str::FromStr;
 
 pub struct Arguments {
